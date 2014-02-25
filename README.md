@@ -32,5 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   {
     echo $ge->getMessage();
   }
-  ?>
+?>
 ```
+
+Reference: <a href="https://code.google.com/p/gtranslate-api-php/">gtranslate-api-php</a>
